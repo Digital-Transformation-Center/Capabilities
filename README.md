@@ -1,2 +1,2 @@
 # Capabilities
-Information, guides, and support for DTC digital makerspace capabilities
+Information, guides, and support for DTC digital makerspace capabilities.
