@@ -17,3 +17,5 @@ Before using the UR5e, contact Ryan Kuederle ([ryan.kuederle@udri.udayton.edu](m
 
 TODO: write SOP.
 
+
+<img src="../../../resources/images/logos/dtc_full.png" width="100" style="position: fixed;bottom:0px">
