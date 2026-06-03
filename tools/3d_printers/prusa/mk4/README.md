@@ -1,7 +1,5 @@
 # Original Prusa MK4
 
-# Original Prusa MK4
-
 The Original Prusa MK4 is an open Cartesian (bed-slinger) 3D printer available in the DTC office.
 
 ## Getting Started
