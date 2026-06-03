@@ -19,7 +19,7 @@ We recommend using PrusaSlicer: https://www.prusa3d.com/p/prusaslicer/.
 ### Starting a Print (USB)
 
 - Make sure the build plate is clean and properly seated. The spring-steel sheet is magnetically attached.
-- Align the sheet so the alignment notch sits over the two locating pins at the top of the heatbed.
+- Align the sheet so the alignment notch sits against the two locating pins at the top of the heatbed.
 - Copy your G-code file to a USB drive and insert it into the USB port on the side of the MK4's display.
 - Use the control knob (turn to move, press to select) to find your file and press Start.
 
