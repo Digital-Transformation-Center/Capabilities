@@ -11,7 +11,7 @@ Before working with the UR5e, familiarize yourself with Universal Robot's provid
 
 ## Training
 
-Before using the UR5e, contact Ryan Kuederle ([ryan.kuederle@udri.udayton.edu](mailto:ryan.kuederle@udri.udayton.edu)) for a brief introductory training session. It is essential that all personnel interacting with the cobot are trained in person.
+Before using the UR5e, contact [Ryan Kuederle](kuederler1@udayton.edu) for a brief introductory training session. It is essential that all personnel interacting with the cobot are trained in person.
 
 ## Standard Operating Procedure
 
